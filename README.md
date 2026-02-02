@@ -1,17 +1,16 @@
-## Sales Dashboard (Power BI)
+## Business Dashboard (Excel)
 
 ### Status
 🚧 Dashboard in progress
 
-### Planned Analysis
-- Sales performance overview
-- Monthly trends
-- Top products
-- Key KPIs
+### Planned Features
+- Pivot table summaries
+- Monthly performance tracking
+- Visual charts for reporting
 
 ### Tools
-- Power BI
+- Microsoft Excel
 
 ### Notes
-This repository contains the project structure and analysis plan.
-Dashboard and visuals will be added next.
+Project structure prepared. Dataset and dashboard to be added.
+
